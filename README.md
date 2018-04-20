@@ -1,3 +1,6 @@
+[![PyPi.org Version](https://img.shields.io/pypi/v/winsyspath.svg)](https://pypi.org/project/winsyspath/)
+[![PyPi.org Py Versions](https://img.shields.io/pypi/pyversions/winsyspath.svg)](https://pypi.org/project/winsyspath/)
+
 # winsyspath
 
 Definitive Python wrapper for Windows System Path
