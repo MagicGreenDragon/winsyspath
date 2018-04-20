@@ -29,7 +29,7 @@ setup(
     python_requires='>=2.7, <4',
     install_requires=[
         'winvers>=0.1.3'
-    ]
+    ],
     url = 'https://github.com/MagicGreenDragon/winsyspath',
     keywords = ['windows', 'system', 'path', 'environment', 'variable'],
     classifiers = (
